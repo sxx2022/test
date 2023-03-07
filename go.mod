@@ -11,9 +11,8 @@ require (
 	github.com/k8gege/LadonGo v0.0.0-20210727122326-c8fd69155b54
 	github.com/logrusorgru/aurora v2.0.3+incompatible
 	github.com/mattn/go-colorable v0.1.12
-	github.com/monnand/goredis v0.0.0-20160310054727-e23c27d63458
 	github.com/stacktitan/smb v0.0.0-20190531122847-da9a425dceb8
-	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
+	golang.org/x/crypto v0.1.0
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
 )
 
@@ -39,9 +38,9 @@ require (
 	github.com/golang/protobuf v1.5.2
 	github.com/google/cel-go v0.6.0
 	github.com/mattn/go-isatty v0.0.14 // indirect
-	golang.org/x/net v0.0.0-20220225172249-27dd8689420f // indirect
-	golang.org/x/sys v0.0.0-20220422013727-9388b58f7150 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/net v0.1.0 // indirect
+	golang.org/x/sys v0.1.0 // indirect
+	golang.org/x/text v0.4.0 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	google.golang.org/genproto v0.0.0-20200416231807-8751e049a2a0
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
